@@ -1,16 +1,5 @@
-# Python packages required for CLONE TRACKER Streamlit App
-
-# Core Streamlit framework for the web interface
 streamlit
-
-# OpenCV for video capture, image manipulation, and drawing the effects
 opencv-python
-
-# Google's MediaPipe library for high-fidelity pose estimation
 mediapipe
-
-# NumPy for efficient numerical operations, especially with image arrays
 numpy
-
-# Matplotlib for generating and displaying the 3D plot
 matplotlib
